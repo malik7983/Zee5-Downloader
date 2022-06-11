@@ -7,7 +7,6 @@ ffmpeg-python
 ffmpeg
 sqlalchemy==1.3.23
 pyrogram==1.0.7
-requests
 psycopg2-binary
 tgcrypto
 youtube-dl
